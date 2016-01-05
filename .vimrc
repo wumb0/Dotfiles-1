@@ -110,6 +110,10 @@ endif
 "underline the current line the cursor is on
 set cursorline
 
+"highlight the 80th column to make code pretty
+"TODO: Only enable colorcolumn if the file is not a .txt file
+set colorcolumn=80
+
 "ensure one line above/below your cursor when scrolling
 set scrolloff=1
 
