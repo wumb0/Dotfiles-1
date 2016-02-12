@@ -12,6 +12,7 @@ call vundle#rc()
 Plugin 'VundleVim/Vundle.vim'                   "Vundles gotta manage Vundle
 Plugin 'altercation/vim-colors-solarized'       "A pretty awesome colorscheme
 Plugin 'bling/vim-airline'                      "A pretty awesome utility line
+Plugin 'vim-airline/vim-airline-themes'         "Needed for themes for airline
 Plugin 'scrooloose/syntastic'                   "Check my syntax before compiling
 Plugin 'Valloric/YouCompleteMe'                 "Complete everything I type
 Plugin 'terryma/vim-multiple-cursors'           "Sublime Text styled multiple cursors
